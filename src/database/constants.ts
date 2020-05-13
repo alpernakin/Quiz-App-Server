@@ -1,0 +1,2 @@
+export const QUIZ_MODEL = 'QUIZ_MODEL';
+export const DATABASE_CONNECTION = 'DATABASE_CONNECTION';
